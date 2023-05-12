@@ -1,6 +1,6 @@
-# Project Name
+# ABC Sign Language Translator 
 
- Add short description of project here > 
+ This project will translate sign language letters to English, and then printing the shown letters into a sentence. It would use a live video feed to see which letters the user is showing.
 
 ![add image descrition here](direct image link here)
 
